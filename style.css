@@ -1,0 +1,163 @@
+
+
+.Header {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 150px;
+}
+
+.Icon {
+    color: #f9faf9;
+    font-size: 24px;
+}
+
+a {
+    color: #f9faf9;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 16px;
+    font-size: 12px;
+}
+
+.Sub-Header{
+    padding: 75px 150px;
+    display: flex;
+    align-items: center;
+    background-color: #1F2937;
+    gap: 8px;
+    flex: 1;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.Title {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+.Text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.Container-button {
+    color: #e5e7eb;
+    background-color: #3882f6;
+    height: 20px;
+    width: 100px;
+    border-radius: 10%;    
+    margin-bottom: 16px;
+}
+
+.Content-Information {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 25px;
+    margin-top: 50px;
+    padding: 0px 150px;
+}
+
+.Content-1 {
+    display: flex;
+    justify-content: space-between;
+    flex: 1;
+    padding: 0px 300px;
+    gap: 8px;
+    margin-bottom: 50px;
+}
+
+.sub-content-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 8px;
+}
+
+.Content-2 {
+    background-color: #e5e7eb;
+    padding: 75px 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Quote {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    text-align: center;
+}
+
+.Author {
+    color: #1F2937;
+    font-weight: 700;
+    text-align: right;
+}
+
+.Content-3 {
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+    margin: 75px 150px;
+    padding: 75px 150px;
+}
+
+.Content-3-left {
+    display: flex;
+    flex-direction: column;
+}
+
+.Content-3-Header {
+    color: #e5e7eb;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.Content-3-SubText {
+    color: #e5e7eb;
+    font-size: 12px;
+}
+
+.Content-3-button {
+    color: #e5e7eb;
+    background-color: #3882f6;
+    height: 20px;
+    width: 100px;
+    border-radius: 10%;    
+    border: 1px solid white;
+}
+
+
+
+.Footer {
+    background-color: #1F2937;
+    color: #f9faf9;
+    font-size: 12px;
+    text-align: center;
+    padding: 16px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
